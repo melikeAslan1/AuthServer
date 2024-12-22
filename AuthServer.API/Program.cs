@@ -1,6 +1,12 @@
+﻿using AutoMapper.Configuration;
+using Microsoft.Extensions.Configuration;
+using SharedLibrary.Configuration;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+builder.Services.Configure<CustomTokenOptions>(builder.Configuration.GetSection("TokenOption"));  //appsettings icindeki tokenoptionsı class a cevirmek istedim class'ini yazdim ve aradaki iletisim icin bu kodu yazdim.
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

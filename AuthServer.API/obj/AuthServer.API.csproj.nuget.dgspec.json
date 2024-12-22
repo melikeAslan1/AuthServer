@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\AuthServer.API\\AuthServer.API.csproj": {}
+    "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\AuthServer.API\\AuthServer.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\AuthServer.API\\AuthServer.API.csproj": {
+    "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\AuthServer.API\\AuthServer.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\AuthServer.API\\AuthServer.API.csproj",
+        "projectUniqueName": "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\AuthServer.API\\AuthServer.API.csproj",
         "projectName": "AuthServer.API",
-        "projectPath": "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\AuthServer.API\\AuthServer.API.csproj",
+        "projectPath": "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\AuthServer.API\\AuthServer.API.csproj",
         "packagesPath": "C:\\Users\\1meli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\AuthServer.API\\obj\\",
+        "outputPath": "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\AuthServer.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\AuthServer.Service\\AuthServer.Service.csproj": {
-                "projectPath": "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\AuthServer.Service\\AuthServer.Service.csproj"
+              "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\AuthServer.Service\\AuthServer.Service.csproj": {
+                "projectPath": "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\AuthServer.Service\\AuthServer.Service.csproj"
               },
-              "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\SharedLibrary\\SharedLibrary.csproj": {
-                "projectPath": "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\SharedLibrary\\SharedLibrary.csproj"
+              "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\SharedLibrary\\SharedLibrary.csproj": {
+                "projectPath": "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\SharedLibrary\\SharedLibrary.csproj"
               }
             }
           }
@@ -46,7 +46,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -76,18 +82,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\AuthServer.Core\\AuthServer.Core.csproj": {
+    "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\AuthServer.Core\\AuthServer.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\AuthServer.Core\\AuthServer.Core.csproj",
+        "projectUniqueName": "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\AuthServer.Core\\AuthServer.Core.csproj",
         "projectName": "AuthServer.Core",
-        "projectPath": "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\AuthServer.Core\\AuthServer.Core.csproj",
+        "projectPath": "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\AuthServer.Core\\AuthServer.Core.csproj",
         "packagesPath": "C:\\Users\\1meli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\AuthServer.Core\\obj\\",
+        "outputPath": "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\AuthServer.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -109,8 +115,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\SharedLibrary\\SharedLibrary.csproj": {
-                "projectPath": "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\SharedLibrary\\SharedLibrary.csproj"
+              "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\SharedLibrary\\SharedLibrary.csproj": {
+                "projectPath": "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\SharedLibrary\\SharedLibrary.csproj"
               }
             }
           }
@@ -119,7 +125,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -140,18 +152,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\AuthServer.Data\\AuthServer.Data.csproj": {
+    "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\AuthServer.Data\\AuthServer.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\AuthServer.Data\\AuthServer.Data.csproj",
+        "projectUniqueName": "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\AuthServer.Data\\AuthServer.Data.csproj",
         "projectName": "AuthServer.Data",
-        "projectPath": "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\AuthServer.Data\\AuthServer.Data.csproj",
+        "projectPath": "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\AuthServer.Data\\AuthServer.Data.csproj",
         "packagesPath": "C:\\Users\\1meli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\AuthServer.Data\\obj\\",
+        "outputPath": "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\AuthServer.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -173,8 +185,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\AuthServer.Core\\AuthServer.Core.csproj": {
-                "projectPath": "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\AuthServer.Core\\AuthServer.Core.csproj"
+              "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\AuthServer.Core\\AuthServer.Core.csproj": {
+                "projectPath": "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\AuthServer.Core\\AuthServer.Core.csproj"
               }
             }
           }
@@ -183,11 +195,43 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.23, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.32, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -204,18 +248,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\AuthServer.Service\\AuthServer.Service.csproj": {
+    "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\AuthServer.Service\\AuthServer.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\AuthServer.Service\\AuthServer.Service.csproj",
+        "projectUniqueName": "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\AuthServer.Service\\AuthServer.Service.csproj",
         "projectName": "AuthServer.Service",
-        "projectPath": "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\AuthServer.Service\\AuthServer.Service.csproj",
+        "projectPath": "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\AuthServer.Service\\AuthServer.Service.csproj",
         "packagesPath": "C:\\Users\\1meli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\AuthServer.Service\\obj\\",
+        "outputPath": "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\AuthServer.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -237,8 +281,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\AuthServer.Data\\AuthServer.Data.csproj": {
-                "projectPath": "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\AuthServer.Data\\AuthServer.Data.csproj"
+              "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\AuthServer.Data\\AuthServer.Data.csproj": {
+                "projectPath": "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\AuthServer.Data\\AuthServer.Data.csproj"
               }
             }
           }
@@ -247,11 +291,23 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -268,18 +324,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\SharedLibrary\\SharedLibrary.csproj": {
+    "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\SharedLibrary\\SharedLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\SharedLibrary\\SharedLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\SharedLibrary\\SharedLibrary.csproj",
         "projectName": "SharedLibrary",
-        "projectPath": "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\SharedLibrary\\SharedLibrary.csproj",
+        "projectPath": "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\SharedLibrary\\SharedLibrary.csproj",
         "packagesPath": "C:\\Users\\1meli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\SharedLibrary\\obj\\",
+        "outputPath": "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\SharedLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -307,7 +363,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -331,7 +393,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

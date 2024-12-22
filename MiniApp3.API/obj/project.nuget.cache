@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2LWidBxWXR9jniXfTu+7paKKCna/cb0yqnb8GRnE/0JfccRwP22Av/MN/sQ3tZv39g165YwkTC3dNwntag56GA==",
+  "dgSpecHash": "FVX4Jmpi6G8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\1meli\\OneDrive\\Masaüstü\\AuthServer\\MiniApp3.API\\MiniApp3.API.csproj",
+  "projectFilePath": "C:\\Users\\1meli\\OneDrive\\Belgeler\\AuthServer\\MiniApp3.API\\MiniApp3.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1meli\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\1meli\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
