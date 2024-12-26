@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AuthServer.Core.Configuration
 {
-    public class Client
+    public class Client   //appsettings.json a yazdim
     {
         public string Id { get; set; }
 
