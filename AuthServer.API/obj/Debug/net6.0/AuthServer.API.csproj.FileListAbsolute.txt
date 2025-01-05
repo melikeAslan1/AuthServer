@@ -116,6 +116,13 @@ C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.API\obj\Debug\net6.0\stat
 C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthServer.API.props
 C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.API\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.API\obj\Debug\net6.0\scopedcss\bundle\AuthServer.API.styles.css
-C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.API\obj\Debug\net6.0\AuthServer.API.csproj.CopyComplete
 C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.API\obj\Debug\net6.0\AuthServer.API.genruntimeconfig.cache
 C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.API\obj\Debug\net6.0\ref\AuthServer.API.dll
+C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.API\bin\Debug\net6.0\AuthServer.API.staticwebassets.endpoints.json
+C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.API\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.API\obj\Debug\net6.0\staticwebassets\msbuild.AuthServer.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.API\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.API\obj\Debug\net6.0\AuthServ.D3E3A0DE.Up2Date

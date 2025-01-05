@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "L2C6t8wZfJs0V3hfor/XT0BSnUxR/hCYwY24MfQjo0Q=",
+  "Hash": "60pQ0FS1ovaucwlVJ0LaWgWIPOcC+AFNBA8SLscmUA4=",
   "Source": "MiniApp1.API",
   "BasePath": "_content/MiniApp1.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

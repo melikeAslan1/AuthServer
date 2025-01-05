@@ -70,7 +70,7 @@ namespace AuthServer.Service.Services
         {
             var accessTokenExpiration = DateTime.Now.AddMinutes(_tokenOption.AccessTokenExpiration);
             var refreshTokenExpiration = DateTime.Now.AddMinutes(_tokenOption.RefreshTokenExpiration);
-            var securityKey = SignService.GetSymmetricSecurityKey(_tokenOption.SecurityKey);
+            var securityKey = SignService.GetSymmetricSecurityKet(_tokenOption.SecurityKey);
 
             SigningCredentials signingCredentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256Signature);
 
@@ -100,7 +100,7 @@ namespace AuthServer.Service.Services
         {
             var accessTokenExpiration = DateTime.Now.AddMinutes(_tokenOption.AccessTokenExpiration);
 
-            var securityKey = SignService.GetSymmetricSecurityKey(_tokenOption.SecurityKey);
+            var securityKey = SignService.GetSymmetricSecurityKet(_tokenOption.SecurityKey);
 
             SigningCredentials signingCredentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256Signature);
 

@@ -32,8 +32,8 @@ C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.Service\obj\Debug\net6.0\
 C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.Service\obj\Debug\net6.0\AuthServer.Service.AssemblyInfo.cs
 C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.Service\obj\Debug\net6.0\AuthServer.Service.csproj.CoreCompileInputs.cache
 C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.Service\obj\Debug\net6.0\AuthServer.Service.sourcelink.json
-C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.Service\obj\Debug\net6.0\AuthServer.Service.csproj.CopyComplete
 C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.Service\obj\Debug\net6.0\AuthServer.Service.dll
 C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.Service\obj\Debug\net6.0\refint\AuthServer.Service.dll
 C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.Service\obj\Debug\net6.0\AuthServer.Service.pdb
 C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.Service\obj\Debug\net6.0\ref\AuthServer.Service.dll
+C:\Users\1meli\OneDrive\Belgeler\AuthServer\AuthServer.Service\obj\Debug\net6.0\AuthServ.BF2BB078.Up2Date

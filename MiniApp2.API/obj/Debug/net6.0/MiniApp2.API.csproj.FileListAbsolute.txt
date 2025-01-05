@@ -61,9 +61,15 @@ C:\Users\1meli\OneDrive\Belgeler\AuthServer\MiniApp2.API\obj\Debug\net6.0\static
 C:\Users\1meli\OneDrive\Belgeler\AuthServer\MiniApp2.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MiniApp2.API.props
 C:\Users\1meli\OneDrive\Belgeler\AuthServer\MiniApp2.API\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\1meli\OneDrive\Belgeler\AuthServer\MiniApp2.API\obj\Debug\net6.0\scopedcss\bundle\MiniApp2.API.styles.css
-C:\Users\1meli\OneDrive\Belgeler\AuthServer\MiniApp2.API\obj\Debug\net6.0\MiniApp2.API.csproj.CopyComplete
 C:\Users\1meli\OneDrive\Belgeler\AuthServer\MiniApp2.API\obj\Debug\net6.0\MiniApp2.API.dll
 C:\Users\1meli\OneDrive\Belgeler\AuthServer\MiniApp2.API\obj\Debug\net6.0\refint\MiniApp2.API.dll
 C:\Users\1meli\OneDrive\Belgeler\AuthServer\MiniApp2.API\obj\Debug\net6.0\MiniApp2.API.pdb
 C:\Users\1meli\OneDrive\Belgeler\AuthServer\MiniApp2.API\obj\Debug\net6.0\MiniApp2.API.genruntimeconfig.cache
 C:\Users\1meli\OneDrive\Belgeler\AuthServer\MiniApp2.API\obj\Debug\net6.0\ref\MiniApp2.API.dll
+C:\Users\1meli\OneDrive\Belgeler\AuthServer\MiniApp2.API\bin\Debug\net6.0\MiniApp2.API.staticwebassets.endpoints.json
+C:\Users\1meli\OneDrive\Belgeler\AuthServer\MiniApp2.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\1meli\OneDrive\Belgeler\AuthServer\MiniApp2.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\1meli\OneDrive\Belgeler\AuthServer\MiniApp2.API\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\1meli\OneDrive\Belgeler\AuthServer\MiniApp2.API\obj\Debug\net6.0\staticwebassets\msbuild.MiniApp2.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\1meli\OneDrive\Belgeler\AuthServer\MiniApp2.API\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\1meli\OneDrive\Belgeler\AuthServer\MiniApp2.API\obj\Debug\net6.0\MiniApp2.F816E631.Up2Date
